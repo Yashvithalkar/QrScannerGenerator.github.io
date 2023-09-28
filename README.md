@@ -1,0 +1,1 @@
+# QrScannerGenerator.github.io
